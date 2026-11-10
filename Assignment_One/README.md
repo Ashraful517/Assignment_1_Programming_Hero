@@ -6,4 +6,5 @@ In blog writing, I wrote blog on the difference between type and interface and t
 
 2 Blog Link:
 Type-vs-Interface : https://github.com/Ashraful517/Assignment_1_Programming_Hero/blob/main/Assignment_One/type-vs-interface.md
+
 Access-modifier : https://github.com/Ashraful517/Assignment_1_Programming_Hero/blob/main/Assignment_One/access-modifier.md
